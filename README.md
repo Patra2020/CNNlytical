@@ -1,2 +1,2 @@
 # CNNlytical
-Summer Of Code(SoC) assignements for the learning project CNN-lytical
+Summer Of Code(SoC) assignments for the learning project CNN-lytical
